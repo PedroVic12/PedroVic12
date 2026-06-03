@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**PedroVic12/PedroVic12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">⚡ Pedro Veras</h1>
 
 <p align="center">
@@ -25,7 +8,17 @@ Here are some ideas to get you started:
   https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Engenharia+Elétrica;Sistemas+de+Potência;Python+Developer;Algoritmos+Genéticos;Data+Science+Applied
 </p>
 
-https://markdown.net.br/sintaxe-basica/
+
+---
+
+## 📑 Sumário
+
+- [Sobre mim](#-sobre-mim)
+- [Tecnologias](#-tecnologias)
+- [Projetos](#-projetos-em-destaque)
+- [Status](#-status-dos-projetos)
+- [Contato](#-contato)
+
 
 ---
 
@@ -41,7 +34,7 @@ Sou estudante de Engenharia Elétrica pela UFF e atuo com:
 - 🌐 Programação Frontend com JavaScript  
 - 🖥️ Programação Desktop com PySide6 e Tauri  
 
-Experiência prática no **ONS (Operador Nacional do Sistema Elétrico)** com foco em planejamento e operação.
+Experiência de 1 ano atuando no **ONS (Operador Nacional do Sistema Elétrico)** na gerencia de planejamento de curto prazo.
 
 Este é um link para o [Meu Portfolio][portfolio] e outro para o [Meu Blog pessoal][github].
 
@@ -97,7 +90,39 @@ https://img.shields.io/badge/Python-Data%20Analysis-blue
 
 ---
 
-## 🤖 Automação e Produtividade
+
+## 🤖 Automação
+
+| Projeto | Descrição | Link |
+|--------|----------|------|
+| 📈 Tracker | Monitoramento de commits | [Repo][tracker] |
+| ⚙️ SEP Scripts | Automação elétrica | [Repo][sepauto] |
+
+---
+
+## 🖥️ Interfaces
+
+| Projeto | Descrição | Link |
+|--------|----------|------|
+| 🖥️ SysPL | Desktop PySide6 | [Repo][syspl] |
+| 🌍 Dashboard | Streamlit | [Repo][dashboard] |
+
+---
+
+# 📊 Status dos Projetos
+
+| Projeto | Status |
+|--------|--------|
+| RCE | 🟢 Online |
+| Contingência | 🟡 Debug |
+| Tracker | 🟢 Online |
+| SEP Scripts | 🔵 Dev |
+| SysPL | 🟡 Debug |
+| Dashboard | 🔵 Dev |
+
+
+---
+## Ferramentas de Produtividade
 
 <table>
 <tr>
@@ -178,19 +203,44 @@ https://img.shields.io/badge/Dashboard-Streamlit-red
 + Planejamento e operação do SIN
 
 
-📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=PedroVic12&show_icons=true&theme=tokyonight
+---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVic12&layout=compact&theme=tokyonight
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroVic12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVic12&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrovictor12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+📧 pedrovictor.rveras12@gmail.com
+
+---
 
 
-🔥 Conecte-se comigo
+https://markdown.net.br/sintaxe-basica/
 
-https://www.linkedin.com/in/pedrovictor12/
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin
-  
-pedrovictor.rveras12@gmail.com
 
-https://img.shields.io/badge/Email-red?style=for-the-badge
+# 🔗 LINKS (VARIÁVEIS)
+
+[portfolio]: https://portfolio-pedro-victor.vercel.app/
+[github]: https://github.com/PedroVic12
+[linkedin]: https://www.linkedin.com/in/pedrovictor12/
+
+[rce]: https://github.com/PedroVic12/Repopulation-With-Elite-Set
+[contingencia]: https://github.com/PedroVic12
+[tracker]: https://github.com/PedroVic12
+[sepauto]: https://github.com/PedroVic12
+[syspl]: https://github.com/PedroVic12
+[dashboard]: https://github.com/PedroVic12
