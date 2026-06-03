@@ -201,7 +201,7 @@ https://img.shields.io/badge/Dashboard-Streamlit-red
 + Estabilidade de tensão
 + Análise de contingências (N-1)
 + Planejamento e operação do SIN
-
+```
 
 
 ---
