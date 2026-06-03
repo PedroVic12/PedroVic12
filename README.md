@@ -229,7 +229,7 @@ https://img.shields.io/badge/Dashboard-Streamlit-red
 
 
 https://markdown.net.br/sintaxe-basica/
-
+https://dados.ons.org.br/dataset/
 
 
 # 🔗 LINKS (VARIÁVEIS)
@@ -239,8 +239,6 @@ https://markdown.net.br/sintaxe-basica/
 [linkedin]: https://www.linkedin.com/in/pedrovictor12/
 
 [rce]: https://github.com/PedroVic12/Repopulation-With-Elite-Set
-[contingencia]: https://github.com/PedroVic12
 [tracker]: https://github.com/PedroVic12
-[sepauto]: https://github.com/PedroVic12
-[syspl]: https://github.com/PedroVic12
+[sysPLClone]: https://github.com/PedroVic12
 [dashboard]: https://github.com/PedroVic12
