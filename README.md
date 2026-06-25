@@ -1,247 +1,100 @@
-<h1 align="center">⚡ Pedro Victor Veras</h1>
+<!-- Altere o link da imagem abaixo caso tenha um banner personalizado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Pedro%20Veras&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<p align="center">
-  Engenharia Elétrica + Otimização + Ciência de Dados
-</p>
+<div align="center">
+  
+[☆ Resumo](#resumo) • [Contato](#contato) • [O que estou estudando](#o-que-estou-estudando) • [Projetos Importantes](#projetos-importantes) • [Estatísticas](#estatísticas) • [Curiosidades](#curiosidades)
 
-<p align="center">
-
-</p>
-
-<img src="https://camo.githubusercontent.com/8d5509f2f1662bac682452684284116bb97759fa0ff8654923ed96ad7335076a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f32362f32652f63613236326530333534656561333131633431313334633365346263336263322e676966" width="400" height="250" alt="Texto alternativo">
-
-
+</div>
 
 ---
 
-## 📑 Sumário
+## Resumo
 
-- [Sobre mim](#-sobre-mim)
-- [Tecnologias](#-tecnologias)
-- [Projetos](#-projetos-em-destaque)
-- [Status](#-status-dos-projetos)
-- [Contato](#-contato)
+É um prazer ter você no meu perfil 👋  
+Me chamo **Pedro Veras**, sou estudante de **Engenharia Elétrica na UFF** e atuo na interseção entre engenharia, ciência de dados e desenvolvimento de software. 
 
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante de Engenharia Elétrica pela UFF e atuo com:
-
-- ⚡ Sistemas Elétricos de Potência  
-- 🧠 Otimização com Algoritmos Evolutivos e programação linear  
-- 🤖 Machine Learning aplicado  
-- 📊 Ciência de Dados aplicada a problemas reais  
-- 🐍 Programação Backend em Python  
-- 🌐 Programação Frontend com JavaScript  
-- 🖥️ Programação Desktop com PySide6 e Tauri  
-
-Experiência de 1 ano atuando no **ONS (Operador Nacional do Sistema Elétrico)** na gerencia de planejamento de curto prazo.
-
-Este é um link para o [Meu Portfolio][portfolio] e outro para o [Meu Blog pessoal][github].
-
-[portfolio]: https://portfolio-pedro-victor.vercel.app/ "Ir para o meu Portfolio Profissional"
-
-[github]: https://github.com/PedroVic12 "Repositórios no GitHub"
+Tenho experiência prática no **ONS (Operador Nacional do Sistema Elétrico)**, atuando na gerência de planejamento de curto prazo. Meu foco é resolver problemas complexos do Setor Elétrico e de negócios utilizando:
+- **Engenharia:** Sistemas Elétricos de Potência, fluxo de potência e análise N-1.
+- **Inteligência Artificial & Dados:** Otimização com Algoritmos Evolutivos (AE/AG) e Machine Learning.
+- **Desenvolvimento:** Construção de soluções Web, Desktop e APIs usando Python, JavaScript e React.
 
 ---
 
-## 🧠 Tecnologias
+## Contato
 
-<p align="center">
-  https://skillicons.dev/icons?i=python,js,react,git,github,vscode
-</p>
-
----
-
-# ⚡ Projetos em Destaque
-
-## 🧠 Otimização (Core Engenharia)
-
-<table>
-<tr>
-
-<td width="50%">
-
-### ⚡ Repopulation With Elite Set
-- Algoritmo Genético com RCE  
-- Otimização de agendamento no SEP  
-- Integração com Pandapower  
-
-https://img.shields.io/badge/Status-Ativo-brightgreen
-
-👉 [github]
-
-</td>
-
-<td width="50%">
-
-### 📊 Análise de Contingências
-- Simulação N-1  
-- Avaliação de violações  
-- Output em DataFrame  
-
-https://img.shields.io/badge/Python-Data%20Analysis-blue
-
-👉 [github]
-
-</td>
-
-</tr>
-</table>
+**📞 Vamos conversar!**  
+- **LinkedIn:** [linkedin.com/in/pedrovictor12](https://www.linkedin.com/in/pedrovictor12/)
+- **WhatsApp:** [Enviar mensagem](https://api.whatsapp.com/send/?phone=5521999289987)
+- **Instagram:** [@pedrov12](https://instagram.com/pedrov12/)
+- **E-mail:** [pedrovictor.rveras12@gmail.com](mailto:pedrovictor.rveras12@gmail.com)
+- **Portfólio Web:** [Acessar meu Portfólio](https://portfolio-pedro-victor.vercel.app/)
 
 ---
 
+## O que estou estudando
 
-## 🤖 Automação
-
-| Projeto | Descrição | Link |
-|--------|----------|------|
-| 📈 Tracker | Monitoramento de commits | [Repo][tracker] |
-| ⚙️ SEP Scripts | Automação elétrica | [Repo][sepauto] |
-
----
-
-## 🖥️ Interfaces
-
-| Projeto | Descrição | Link |
-|--------|----------|------|
-| 🖥️ SysPL | Desktop PySide6 | [Repo][syspl] |
-| 🌍 Dashboard | Streamlit | [Repo][dashboard] |
+No momento, estou focando em:
+- ⚡ Aprofundamento em **Algoritmos Evolutivos e Metaheurísticas** para o meu artigo científico (Framework RCE).
+- 🧠 Integração de **IA Generativa (Gemini AI)** em sistemas de atendimento e dashboards.
+- 💻 Arquitetura de aplicações modernas utilizando **Astro**, **NextJS** e **FastAPI**.
 
 ---
 
-# 📊 Status dos Projetos
+## Projetos Importantes
 
-| Projeto | Status |
-|--------|--------|
-| RCE | 🟢 Online |
-| Contingência | 🟡 Debug |
-| Tracker | 🟢 Online |
-| SEP Scripts | 🔵 Dev |
-| SysPL | 🟡 Debug |
-| Dashboard | 🔵 Dev |
+> **Legenda de Status:**  
+> 🟢 **Online / Ativo** | 🟡 **Em Manutenção / Debug** | 🔴 **Fora do ar / Sem Deploy**
 
+- 🟢 **[Blog Pessoal de Estudos e Projetos](https://astro-blog-pedrov12.vercel.app/)**  
+  Compartilhando minhas experiências e aprendizados em Engenharia Elétrica, Ciência de Dados e Programação. *(Astro, Python, Javascript, Julia)*
 
----
-## Ferramentas de Produtividade
+- 🟢 **[Análise de Dados e Dashboards](https://dashboard-moderno-ia.onrender.com/)**  
+  Projeto feito 100% em Python com uso de IA generativa (Gemini), auxiliando em tomadas de decisão baseadas em dados. *(Python, Streamlit, Gemini AI)*
 
-<table>
-<tr>
+- 🟢 **[Aplicativo Garçom PDV e Delivery](https://kyogre-ruby-delivery-pdv-react.vercel.app)**  
+  Sistema completo para restaurantes e bares com cardápio digital e PDV. *(Flutter, React, FastAPI, Supabase)*
 
-<td width="50%">
+- 🟢 **[Chatbot Groundon para Delivery](https://api.whatsapp.com/send/?phone=5521988377364)**  
+  Integração de IA para atendimento, utilizando programação assíncrona e estruturas de dados complexas. *(NodeJS, Django, Gemini AI)*
 
-### 📈 Monitoramento de Projetos
-- Análise de commits  
-- Métricas de produtividade  
-- Foco em carreira  
+- 🟡 **[Framework de Otimização em Python (RCE)](https://github.com/PedroVic12/Repopulation-With-Elite-Set)**  
+  Framework de Algoritmo Evolutivo criado para publicação de artigo científico (2024-2025). *(Python, DEAP, Otimização)*
 
-https://img.shields.io/badge/Data-Tracking-orange
+- 🟡 **Análise de Contingências (Sistemas de Potência)**  
+  Simulação N-1 e avaliação de violações em sistemas elétricos com output automatizado. *(Python, Pandas, Pandapower)*
 
-👉 [github]
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Automação SEP
-- Scripts de análise  
-- Fluxo de potência  
-- Pandas + Python  
-
-https://img.shields.io/badge/Automation-Python-yellow
-
-👉 [github]
-
-</td>
-
-</tr>
-</table>
+- 🔴 **SysPL Desktop**  
+  Interface gráfica Desktop (MVVM Architecture) criada para simular análises elétricas estilo ONS. Foi desenvolvida, mas não está distribuída/deployada no momento. *(Python, PySide6)*
 
 ---
 
-## 🌐 Frontend / Interfaces
+## Estatísticas
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🖥️ SysPL Desktop
-- PySide6 GUI  
-- MVVM Architecture  
-- Interface estilo ONS  
-
-https://img.shields.io/badge/Desktop-App-lightgrey
-
-👉 [github]
-
-</td>
-
-<td width="50%">
-
-### 🌍 Dashboard Streamlit
-- Visualização de dados  
-- Gráficos interativos  
-- Resultados do algoritmo  
-
-https://img.shields.io/badge/Dashboard-Streamlit-red
-
-👉 [github]
-
-</td>
-
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroVic12&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVic12&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+</div>
 
 ---
 
-## ⚡ Engenharia Elétrica
+## Curiosidades
 
-```diff
-+ Estudos de fluxo de potência
-+ Estabilidade de tensão
-+ Análise de contingências (N-1)
-+ Planejamento e operação do SIN
-```
-
+- Tive meu primeiro contato com o empreendedorismo criando um assistente virtual de delivery (Chatbot Groundon).
+- Gosto de automatizar processos repetitivos da engenharia criando meus próprios scripts em Python.
+- Sou capaz de ir desde o cálculo de um fluxo de potência até a criação da interface visual bonita onde o usuário vai analisar esse dado.
+- Gosto de escrever no meu blog para documentar minha jornada entre os mundos da Engenharia e da Programação.
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
+  
+[🔝 Voltar ao topo](#resumo)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroVic12&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVic12&layout=compact&theme=tokyonight" />
-</p>
+</div>
+```eof
 
----
-
-## 📬 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedrovictor12/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
-📧 pedrovictor.rveras12@gmail.com
-
----
-
-
-https://markdown.net.br/sintaxe-basica/
-https://dados.ons.org.br/dataset/
-
-
-# 🔗 LINKS (VARIÁVEIS)
-
-[portfolio]: https://portfolio-pedro-victor.vercel.app/
-[github]: https://github.com/PedroVic12
-[linkedin]: https://www.linkedin.com/in/pedrovictor12/
-
-[rce]: https://github.com/PedroVic12/Repopulation-With-Elite-Set
-[tracker]: https://github.com/PedroVic12
-[sysPLClone]: https://github.com/PedroVic12
-[dashboard]: https://github.com/PedroVic12
+### Detalhes dessa versão:
+1. **Menu Estilo Ytallo:** O menu com as estrelinhas `[☆ Resumo]` está no topo, bem centralizado, e todas as âncoras funcionam perfeitamente levando para as seções correspondentes.
+2. **Sistema de LEDs:** Criei uma legenda visual simples (`> **Legenda de Status:**...`) no início da seção de projetos. Usei os projetos do seu array JS como `🟢 Online`, deixei o seu Framework de Artigo como `🟡 Em Manutenção` e trouxe dois projetos seus do seu primeiro texto (Contingências e SysPL) para usar o `🟡` e o `🔴`, deixando a vitrine bem realista!
+3. **Banner Animado:** Como você não enviou uma imagem de banner fixa, coloquei uma API que gera uma imagem azul com seu nome digitando e uma onda animada. Fica muito bonito e combina com as cores das suas estatísticas. Se quiser trocar, é só mudar a URL na primeira linha do código.
