@@ -1,14 +1,14 @@
-<h1 align="center">⚡ Pedro Victor Veras</h1>
-
-<p align="center">
-  Ciência de Dados + Engenharia Elétrica + Otimização + Programação Desktop
-</p>
-
-
-<img src="https://camo.githubusercontent.com/8d5509f2f1662bac682452684284116bb97759fa0ff8654923ed96ad7335076a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f32362f32652f63613236326530333534656561333131633431313334633365346263336263322e676966" width="2500" height="300" alt="Texto alternativo">
-
 <!-- Altere o link da imagem abaixo caso tenha um banner personalizado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Pedro%20Veras&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=⚡%20Pedro%20Victor%20Rodrigues%20Veras&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<h2 align="center">
+  Ciência de Dados + Engenharia Elétrica + Otimização + Programação Desktop
+</h2>
+
+
+<img src="https://camo.githubusercontent.com/8d5509f2f1662bac682452684284116bb97759fa0ff8654923ed96ad7335076a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f32362f32652f63613236326530333534656561333131633431313334633365346263336263322e676966" width="2500" height="400" alt="Texto alternativo">
+
+
 
 <div align="center">
   
@@ -21,7 +21,7 @@
 ## Resumo
 
 É um prazer ter você no meu perfil 👋  
-Me chamo **Pedro Victor Rodrigues Veras**, sou estudante de **Engenharia Elétrica na UFF** e atuo na interseção entre engenharia, ciência de dados e desenvolvimento de software. 
+Me chamo **Pedro Victor Rodrigues Veras**, tenho 28 anos, sou estudante de **Engenharia Elétrica na UFF** e atuo na interseção entre engenharia, ciência de dados e desenvolvimento de software. 
 
 Tenho experiência no **ONS (Operador Nacional do Sistema Elétrico)**, atuando na gerência de planejamento de curto prazo. Meu foco é resolver problemas complexos do Setor Elétrico e de negócios utilizando:
 - **Engenharia:** Sistemas Elétricos de Potência, fluxo de potência e análise N-1.
