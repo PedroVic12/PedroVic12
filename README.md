@@ -5,10 +5,7 @@
   Ciência de Dados + Engenharia Elétrica + Otimização + Programação Desktop
 </h2>
 
-
 <img src="https://camo.githubusercontent.com/8d5509f2f1662bac682452684284116bb97759fa0ff8654923ed96ad7335076a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f32362f32652f63613236326530333534656561333131633431313334633365346263336263322e676966" width="2500" height="500" alt="Texto alternativo">
-
-
 
 <div align="center">
   
@@ -21,9 +18,10 @@
 ## Resumo
 
 É um prazer ter você no meu perfil 👋  
-Me chamo **Pedro Victor Rodrigues Veras**, tenho 28 anos, sou estudante de **Engenharia Elétrica na UFF** e atuo na interseção entre engenharia, ciência de dados e desenvolvimento de software. 
+Me chamo **Pedro Victor Rodrigues Veras**, tenho 28 anos, sou estudante de **Engenharia Elétrica na UFF** e atuo na interseção entre engenharia, ciência de dados e desenvolvimento de software.
 
 Tenho experiência no **ONS (Operador Nacional do Sistema Elétrico)**, atuando na gerência de planejamento de curto prazo. Meu foco é resolver problemas complexos do Setor Elétrico e de negócios utilizando:
+
 - **Engenharia:** Sistemas Elétricos de Potência, fluxo de potência e análise N-1.
 - **Inteligência Artificial & Dados:** Otimização com Algoritmos Evolutivos (AE/AG) e Machine Learning.
 - **Desenvolvimento:** Construção de soluções Web, Desktop e APIs usando Python, JavaScript e React.
@@ -33,6 +31,7 @@ Tenho experiência no **ONS (Operador Nacional do Sistema Elétrico)**, atuando 
 ## Contato
 
 **📞 Vamos conversar!**  
+
 - **LinkedIn:** [linkedin.com/in/pedrovictor12](https://www.linkedin.com/in/pedrovictor12/)
 - **WhatsApp:** [Enviar mensagem](https://api.whatsapp.com/send/?phone=5521999289987)
 - **Instagram:** [@pedrov12](https://instagram.com/pedrov12/)
@@ -42,7 +41,6 @@ Tenho experiência no **ONS (Operador Nacional do Sistema Elétrico)**, atuando 
 ---
 
 ## O que estou estudando
-
 
 ### UFF - Engenharia Elétrica
 
@@ -57,7 +55,6 @@ No momento, estou focando em:
 - ⚡ Aprofundamento em **Algoritmos Evolutivos e Metaheurísticas** para o meu artigo científico (Framework RCE).
 - 🧠 Integração de **IA Generativa (Gemini AI)** em sistemas de atendimento e dashboards.
 - 💻 Arquitetura de aplicações modernas utilizando **Astro**, **NextJS** e **FastAPI**.
-
 
 ---
 
@@ -178,21 +175,10 @@ Este é um link para o [Meu Portfolio][portfolio] e outro para o [Meu Blog pesso
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroVic12&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVic12&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</div>
-
----
-
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroVic12&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVic12&layout=compact&theme=tokyonight" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroVic12&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVic12&layout=compact&theme=tokyonight)
 
 ---
 
@@ -204,26 +190,15 @@ Este é um link para o [Meu Portfolio][portfolio] e outro para o [Meu Blog pesso
   </a>
 </p>
 
-📧 pedrovictor.rveras12@gmail.com
+📧 <pedrovictor.rveras12@gmail.com>
 
 ---
 
+# 🔗 LINKS Úteis
 
-https://markdown.net.br/sintaxe-basica/
-https://dados.ons.org.br/dataset/
+<https://markdown.net.br/sintaxe-basica/>
 
-
-# 🔗 LINKS (VARIÁVEIS)
-
-[portfolio]: https://portfolio-pedro-victor.vercel.app/
-[github]: https://github.com/PedroVic12
-[linkedin]: https://www.linkedin.com/in/pedrovictor12/
-
-[rce]: https://github.com/PedroVic12/Repopulation-With-Elite-Set
-[tracker]: https://github.com/PedroVic12
-[sysPLClone]: https://github.com/PedroVic12
-[dashboard]: https://github.com/PedroVic12
-
+<https://dados.ons.org.br/dataset/>
 
 ---
 
