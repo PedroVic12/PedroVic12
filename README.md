@@ -183,6 +183,8 @@ Este é um link para o [Meu Portfolio][portfolio] e outro para o [Meu Blog pesso
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVic12&layout=compact&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroVic12&theme=2077)
+
 <http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={PedroVic12}&theme={2077}>
 
 ---
