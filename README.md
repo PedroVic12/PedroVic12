@@ -45,9 +45,12 @@ Tenho experiência no **ONS (Operador Nacional do Sistema Elétrico)**, atuando 
 ### UFF - Engenharia Elétrica
 
 - Circuitos Digitais
-- Circuitos Eletricos CC
-- Sistemas eletricos de potencia
-- Programação em Python, Julia e C++
+- Circuitos Eletricos CC e CA
+- Sistemas Elétricos de Potência
+- Sinais e Sistemas Digitais
+- Sistema de Controle Moderno
+- Algoritimos de Otimização de programação Linear
+- Programação em Python, Julia, Javascript e C++
 
 No momento, estou focando em:
 
@@ -72,18 +75,18 @@ Sou estudante de Engenharia Elétrica pela UFF e atuo com:
 
 Experiência de 1 ano atuando no **ONS (Operador Nacional do Sistema Elétrico)** na gerencia de planejamento de curto prazo.
 
-Este é um link para o [Meu Portfolio][portfolio] e outro para o [Meu Blog pessoal][github].
+Este é um link para o [Meu Portfolio Profissional][portfolio] e outro para o [Meu Blog pessoal][astro-blog].
 
 [portfolio]: https://portfolio-pedro-victor.vercel.app/ "Ir para o meu Portfolio Profissional"
 
-[github]: https://github.com/PedroVic12 "Repositórios no GitHub"
+[astro-blog]: https://astro-blog-pedrov12.vercel.app/ "Blog em astro com meus estudos"
 
 ---
 
 ## 🧠 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,git,github,vscode" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,cpp,dart,julia,git,github,vscode" alt="Tech icons" />
 </p>
 
 ---
