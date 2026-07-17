@@ -178,7 +178,12 @@ Este é um link para o [Meu Portfolio][portfolio] e outro para o [Meu Blog pesso
 ## 📈 GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroVic12&show_icons=true&theme=tokyonight)
+
+<http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={PedroVic12}&theme={2077}>
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVic12&layout=compact&theme=tokyonight)
+
+<http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={PedroVic12}&theme={2077}>
 
 ---
 
