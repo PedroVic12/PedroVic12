@@ -83,7 +83,7 @@ Este é um link para o [Meu Portfolio][portfolio] e outro para o [Meu Blog pesso
 ## 🧠 Tecnologias
 
 <p align="center">
-  https://skillicons.dev/icons?i=python,js,react,git,github,vscode
+  <img src="https://skillicons.dev/icons?i=python,js,react,git,github,vscode" alt="Tech icons" />
 </p>
 
 ---
@@ -177,9 +177,9 @@ Este é um link para o [Meu Portfolio][portfolio] e outro para o [Meu Blog pesso
 
 ## 📈 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroVic12&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroVic12&theme=2077&animation=sequence&duration=1&name=Pedro+Victor)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroVic12&theme=2077&animation=sequence&duration=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroVic12&theme=2077&animation=sequence&duration=1&exclude=html%2Ctypescript)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroVic12&theme=2077&animation=sequence&duration=1)
 
